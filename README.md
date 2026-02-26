@@ -88,16 +88,18 @@ MLflow was used to:
 
 ## 📁 Project Structure
 
+
+credit-risk-ml-pipeline/
 │
-├──  data/
-├──  notebooks/
-├──  models/
-│ └──  tuned_random_forest.pkl
-├──  mlruns/
-├──  reports/
-│ └──  technical_report.pdf
-├──  requirements.txt
-└──  README.md
+├── data/
+├── notebooks/
+├── models/
+│   └── tuned_random_forest.pkl
+├── mlruns/
+├── reports/
+│   └── technical_report.pdf
+├── requirements.txt
+└── README.md
 
 ---
 
