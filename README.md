@@ -89,6 +89,7 @@ MLflow was used to:
 ## 📁 Project Structure
 
 
+```
 credit-risk-ml-pipeline/
 │
 ├── data/
@@ -100,7 +101,7 @@ credit-risk-ml-pipeline/
 │   └── technical_report.pdf
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 Deployment Considerations
