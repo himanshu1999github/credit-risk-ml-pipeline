@@ -88,7 +88,16 @@ MLflow was used to:
 
 ## 📁 Project Structure
 
-
+│
+├── data/
+├── notebooks/
+├── models/
+│ └── tuned_random_forest.pkl
+├── mlruns/
+├── reports/
+│ └── technical_report.pdf
+├── requirements.txt
+└── README.md
 
 ---
 
